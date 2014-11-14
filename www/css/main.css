@@ -1,0 +1,52 @@
+@import url('//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
+ .carousel h2 {
+    margin: 0;
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;
+}
+<!-- .carousel #the-slider h3 {
+    margin: 0;
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;
+}
+--> .item {
+    background: #333;
+    text-align: center;
+    height: 400px !important;
+}
+<!-- .item #the-slider {
+    background: #333;
+    text-align: center;
+    height: 400px !important;
+}
+--> input[type*="text"],
+input[type*="email"],
+textarea {
+    width: 100%;
+}
+body {
+    font-size: middle;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+}
+h1,
+h2 {
+    color: #007e7e;
+}
+h1 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 130%;
+}
+#TrainingList {
+    border-width: thin;
+    border-style: solid;
+    <!-- border-color: #007e7e;
+    --> border-color: currentColor width: 300px;
+    float: right
+}
